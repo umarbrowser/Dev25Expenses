@@ -11,6 +11,38 @@ The project is structured around a **4-week development plan**, gradually evolvi
 
 ---
 
+# Dev25Expenses - Expense Tracker
+
+A complete PHP-based expense tracking application developed by Team B (Saifullah & Umar) for the Dev25 program.
+
+## Features
+
+- User registration and authentication
+- Add, edit, delete expenses
+- Expense categorization
+- CSV import/export functionality
+- Responsive design
+- Expense statistics and reporting
+- Secure password hashing
+
+## Installation
+
+1. **Prerequisites**
+   - PHP 7.4 or higher
+   - MySQL/MariaDB
+   - Web server (Apache/Nginx)
+
+2. **Setup Steps**
+   - Clone or download the project files to your web server directory
+   - Create a MySQL database named `dev25expenses`
+   - Update database credentials in `config/database.php`
+   - The application will automatically create the required tables
+
+3. **Access the Application**
+   - Navigate to the project directory in your web browser
+   - Register a new account or use the default credentials
+---
+
 ## 🗓 Development Timeline
 
 ### Week 1: Environment Setup & Database Design
