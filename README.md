@@ -36,7 +36,7 @@ A complete PHP-based expense tracking application developed by Team B (Saifullah
    - Clone or download the project files to your web server directory
    - Create a MySQL database named `dev25expenses`
    - Update database credentials in `config/database.php`
-   - The application will automatically create the required tables
+   - The application will automatically create the required tables when you run setup.php
 
 3. **Access the Application**
    - Navigate to the project directory in your web browser
